@@ -7,13 +7,13 @@
 	<key>CFBundleDisplayName</key>
 	<string>Fingerpori</string>
 	<key>CFBundleIdentifier</key>
-	<string>mursu.fingerpori</string>
+	<string>kkontio.fingerpori</string>
 	<key>CFBundleName</key>
 	<string>Fingerpori</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.3</string>
+	<string>1.4</string>
 	<key>CFBundleVersion</key>
-	<string>1.3</string>
+	<string>1.4</string>
 	<key>CloseBoxInsetX</key>
 	<integer>10</integer>
 	<key>CloseBoxInsetY</key>
